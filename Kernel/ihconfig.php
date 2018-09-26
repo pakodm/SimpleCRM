@@ -1,6 +1,6 @@
 <?php
 $db_server = "localhost";
-$db_user = "gvguzman_ihcrm";
-$db_password = "r37muM6s)$";
-$db_name = "gvguzman_ih_crm";
+$db_user = "test_user";
+$db_password = "r37m&$ki";
+$db_name = "simple_crm";
 ?>
